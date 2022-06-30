@@ -1,0 +1,36 @@
+body {
+    background-color: #c9fcf6;
+}
+
+main {
+    position: absolute;
+    left: 500px;
+}
+
+h1 {
+    color: purple;
+    font-size: 35px;
+    font-style: italic;
+}
+
+#tanıtım {
+    font-weight: bold;
+    font-style: oblique;
+}
+
+.menurapor {
+    color: red;
+}
+
+.malzemebaslik {
+    color: white;
+    background-color: brown;
+    border-radius: 10px;
+}
+
+.afied {
+    font-size: 30px;
+    font-family: Arial;
+    color: Maroon;
+    text-align: right
+}
